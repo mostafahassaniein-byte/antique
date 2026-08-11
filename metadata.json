@@ -1,0 +1,8 @@
+{
+  "name": "Remix ANTIQE - 3D Print-on-Demand Marketplace",
+  "description": "Custom 3D Mug and Apparel Editor with Real-Time WebGL Preview, Marketplace, Seller and Admin Dashboards",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
